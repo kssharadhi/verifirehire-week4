@@ -45,9 +45,3 @@ Replace `data/demo_job_postings.csv` with a legally usable, labeled CSV containi
 ## Safety and limitations
 This model does not verify companies, recruiters, or payment requests. Synthetic examples produce misleadingly optimistic metrics. Job posts may be misclassified. Do not upload sensitive personal data. Only load trusted Joblib model files.
 
-## Submission checklist
-- [ ] Train and test on a representative dataset
-- [ ] Capture genuine training metrics and screenshots
-- [ ] Deploy and test public URL
-- [ ] Add your GitHub and deployment URLs to report
-- [ ] Submit DOCX and GitHub URL
