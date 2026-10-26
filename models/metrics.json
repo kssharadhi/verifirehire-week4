@@ -1,0 +1,40 @@
+{
+  "selected_model": "logistic_regression",
+  "train_samples": 60,
+  "test_samples": 20,
+  "evaluation": {
+    "logistic_regression": {
+      "accuracy": 1,
+      "precision": 1,
+      "recall": 1,
+      "f1": 1,
+      "confusion_matrix": [
+        [
+          10,
+          0
+        ],
+        [
+          0,
+          10
+        ]
+      ]
+    },
+    "naive_bayes": {
+      "accuracy": 1,
+      "precision": 1,
+      "recall": 1,
+      "f1": 1,
+      "confusion_matrix": [
+        [
+          10,
+          0
+        ],
+        [
+          0,
+          10
+        ]
+      ]
+    }
+  },
+  "dataset_note": "Small, synthetic demonstration dataset; scores do not represent real-world effectiveness."
+}
